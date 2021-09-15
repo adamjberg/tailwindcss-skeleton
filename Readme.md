@@ -40,3 +40,7 @@
 ? Overwrite package.json? (ynaxdH) y
 
 `yarn serve`
+
+Resources
+
+https://levelup.gitconnected.com/setup-tailwind-css-with-webpack-3458be3eb547
